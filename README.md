@@ -65,7 +65,7 @@ eye-on-base             |  eye-on-hand
 - clone this repository into your catkin workspace:
 ```
 cd ~/catkin_ws/src  # replace with path to your workspace
-git clone https://github.com/IFL-CAMP/easy_handeye
+git clone https://github.com/Yanxxx/easy_handeye
 ```
 
 - satisfy dependencies
